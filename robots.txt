@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hoswilec.github.io/sitemap.html.gz
+Sitemap: https://hoswilec.github.io/app/sitemap.html.gz
+Sitemap: https://hoswilec.github.io/assets/sitemap.html.gz
+Sitemap: https://hoswilec.github.io/css/sitemap.html.gz
+Sitemap: https://hoswilec.github.io/includes/sitemap.html.gz
+Sitemap: https://hoswilec.github.io/item/sitemap.html.gz
+Sitemap: https://hoswilec.github.io/src/sitemap.html.gz
